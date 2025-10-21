@@ -1,3 +1,12 @@
+/* Custom Properties */
+:root {
+  --clr-primary-400: hsl(185, 75%, 39%);
+
+  --clr-accent-400: hsl(229, 23%, 23%);
+
+  --clr-neutral-500: hsl(227, 10%, 46%);
+}
+
 /* RESET STYLES */
 /* Box sizing rules */
 *,
