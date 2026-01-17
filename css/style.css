@@ -101,7 +101,7 @@ body {
   overflow: hidden;
   max-width: 24.38rem;
   margin-inline: auto;
-  box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
 }
 
 .profile-card__header::before {
